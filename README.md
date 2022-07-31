@@ -1,7 +1,6 @@
 # React - Business Card
-## [Watch it on youtube](https://youtu.be/J89r0CkgWIY)
-## [Live Demo](https://mybusinesscard-react.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/11b3cd00-91a2-4c23-a560-6870a0d49bce/deploy-status)](https://app.netlify.com/sites/mybusinesscard-react/deploys)
+## [Live Demo](https://react-travel-site.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e41df579-3605-49d1-be91-5a0948275fee/deploy-status)](https://app.netlify.com/sites/react-travel-site/deploys)
 
 
 
