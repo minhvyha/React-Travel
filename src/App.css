@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.main-container{
+  padding: 3rem 4rem;
+  background-color: #23252C;
+  border-radius: .7rem;
+}
+
+@media screen and (max-width:500px) {
+ #root{
+  margin: 0;
+  padding: .5rem;
+ }
+}
